@@ -1,2 +1,2 @@
 # GRAVITY
- Simulation of gravitationally bound objects (n-body problem)
+Simulation of gravitationally bound objects (n-body problem)
